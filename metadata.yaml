@@ -1,6 +1,8 @@
 homepage: "https://www.braze.com/"
 documentation: "https://github.com/Appboy/google-tag-manager-initialization-template"
 versions:
+  - sha: c7c3ceb3a8206b557a0136ff825f074033536601
+    changeNotes: fff
   - sha: 446fe306f60707df4a004185404bbe83c0061242
     changeNotes: teachyou
   - sha: 72e1433f15f3cba3e5bde0e31a40cce302550f37
