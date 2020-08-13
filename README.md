@@ -21,3 +21,4 @@ After you create a container, you can add GTM container snippet to your website 
 10. Click `Submit` on the upper right corner of the page.
 11. Click `Publish` to publish your tag.
 
+Copyright @Braze# script_testing_private
